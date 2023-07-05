@@ -1,0 +1,62 @@
+[
+	{
+		"cep": "02336-040",
+		"city": "São Paulo",
+		"cpf_cnpj": "39437577811",
+		"district": "Água Fria",
+		"id": 1,
+		"name": "Parceiro Teste",
+		"partner_type": 1,
+		"status": 1
+	},
+	{
+		"cep": "02336-040",
+		"city": "São Paulo",
+		"cpf_cnpj": "39437577811",
+		"district": "Água Fria",
+		"id": 2,
+		"name": "Parceiro Teste",
+		"partner_type": 1,
+		"status": 1
+	},
+	{
+		"cep": "02336-040",
+		"city": "São Paulo",
+		"cpf_cnpj": "39437577811",
+		"district": "Água Fria",
+		"id": 3,
+		"name": "Parceiro Teste",
+		"partner_type": 1,
+		"status": 1
+	},
+	{
+		"cep": "02336-040",
+		"city": "São Paulo",
+		"cpf_cnpj": "39437577811",
+		"district": "Água Fria",
+		"id": 4,
+		"name": "Parceiro Teste",
+		"partner_type": 1,
+		"status": 1
+	},
+	{
+		"cep": "02336-040",
+		"city": "São Paulo",
+		"cpf_cnpj": "39437577811",
+		"district": "Água Fria",
+		"id": 5,
+		"name": "Parceiro Teste",
+		"partner_type": 1,
+		"status": 1
+	},
+	{
+		"cep": "02336-040",
+		"city": "São Paulo",
+		"cpf_cnpj": "39437577811",
+		"district": "Água Fria",
+		"id": 6,
+		"name": "Parceiro Teste",
+		"partner_type": 1,
+		"status": 1
+	}
+]

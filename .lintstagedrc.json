@@ -1,0 +1,7 @@
+{
+  "*.{ts,tsx,jsx}": [
+    "eslint 'src/**/*.{ts,tsx,jsx}' --fix",
+    "stylelint 'src/**/*.{ts,tsx,jsx}'",
+    "jest --bail --findRelatedTests --passWithNoTests"
+  ]
+}
